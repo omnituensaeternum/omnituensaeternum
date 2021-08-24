@@ -5,8 +5,7 @@ _(Aka. Omnituensaeternum)_
 
 ## My Stats:
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>GitHub Stats</summary>
   <img align="left" alt="omnituensaeternum's GitHub Stats" src="ghubstats-omnituensaeternum.vercel.app/api?username=omnituensaeternum&show_icons=true&hide_border=true" />
 
 </details>
